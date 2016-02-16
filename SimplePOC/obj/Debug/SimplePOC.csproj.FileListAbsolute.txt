@@ -1,0 +1,14 @@
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\SimplePOC.dll
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\SimplePOC.pdb
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\obj\Debug\SimplePOC.dll
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\obj\Debug\SimplePOC.pdb
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\obj\Debug\MainPage.xaml.g.cs
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\obj\Debug\PaginaDois.xaml.g.cs
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\obj\Debug\SimplePOC.dll.mdb
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\SimplePOC.dll.mdb
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\obj\Debug\SimplePOC.dll.mdb
+C:\Users\Alaides\Documents\Projects\SimplePOC\SimplePOC\bin\Debug\SimplePOC.dll.mdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SimplePOC.MainPage">
+	<ContentPage.Content>
+		<StackLayout Padding="25">
+			<Label Text="Layout de pilha" FontSize="24"/>
+			<Button Text="irPagna2" Clicked="IrPagna2" />
+
+			<Label Text="Item Qualquer" />
+			<Entry x:Name="itemQualquer" Placeholder="ex: input ai"/>
+
+			<StackLayout Orientation="Horizontal">
+				<Label Text="Item Outro" />
+				<Label Text="10" x:Name="lblContador"/>
+				<Stepper Increment="10" x:Name="stpContador" Minimum="10" Maximum="1000" ValueChanged="AtualizaContador"/>
+			</StackLayout>
+			<Slider x:Name="sldContador" Minimum="10" Maximum="1000" ValueChanged="AtualizaContador"/>
+
+			<Button Text="Salvar" Clicked="salvaAlgo" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
